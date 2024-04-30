@@ -1,1 +1,1 @@
-In the Excel file, you can see how I make reports in this format.
+In the shopping_behavior_report, you can see how I make reports in Excel format.
